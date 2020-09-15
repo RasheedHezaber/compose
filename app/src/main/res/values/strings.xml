@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="form">
+        <item>Form</item>
+
+    </string-array>
+    <string-array name="to">
+        <item>To</item>
+
+    </string-array>
+</resources>
